@@ -1,4 +1,4 @@
-package com.stevdza_san.demo
+package no.app.henory
 
 import App
 import android.os.Bundle
