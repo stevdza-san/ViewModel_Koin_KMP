@@ -5,6 +5,7 @@ import domain.Repository
 
 class DetailViewModel(private val repo: Repository): ViewModel() {
     init {
+
         println("Detail ViewModel initializing...")
     }
 
